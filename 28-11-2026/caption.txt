@@ -1,0 +1,43 @@
+SABATO 28-11-2026 · Collegare i programmi (API)
+============================================================
+Orari consigliati: reel Scena 12:30 · carosello 18:30 · reel 20:30
+Facebook: stessa caption, senza hashtag.
+
+### REEL · La porta aperta · ore 12:30
+
+--- CAPTION ---
+Settembre 2022. Optus, uno dei più grandi operatori telefonici d'Australia, scopre di essere stato bucato. 🔓
+
+I dati di quasi 10 milioni di persone: nomi, indirizzi, date di nascita, numeri di passaporto e patente. Poi il ricatto: 1,5 milioni di dollari australiani.
+
+Optus parla di un attacco complesso. Secondo il governo australiano, invece, è stato un errore umano: un'API lasciata raggiungibile da internet, senza controllo di accesso.
+
+Il colpo di scena: il ricattatore ritira la richiesta e chiede scusa. Ma 10.000 schede erano già state pubblicate.
+
+Le API fanno parlare i tuoi programmi tra loro. Ma ogni collegamento è una porta, e va chiusa a chiave.
+
+👉 Commenta CONTATTAMI e ti dico come collegare i tuoi programmi in sicurezza.
+
+--- HASHTAG ---
+#api #cybersecurity #storievere #sviluppoweb #montesstudio #piccolaimpresa
+
+------------------------------------------------------------
+
+### REEL SCENA · Le 23:15 · ore 19:30
+
+--- CAPTION ---
+Ogni sera, alle 23:15, Chiara ricopia gli stessi numeri in tre programmi diversi. 😵
+
+Quella sera ne ha sbagliato uno.
+
+Un collegamento tra i tuoi programmi (si chiama API) fa quel lavoro per te: il dato viene inserito una volta, e arriva dove serve.
+
+(Storia inventata. Il copia-incolla serale è molto reale.)
+
+👉 Commenta CONTATTAMI e ti dico cosa si può collegare tra i tuoi programmi.
+
+--- HASHTAG ---
+#api #automazione #sviluppoweb #software #montesstudio #imprenditori
+
+------------------------------------------------------------
+
